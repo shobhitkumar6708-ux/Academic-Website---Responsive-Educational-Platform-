@@ -1,1 +1,2 @@
-# Academic-Website---Responsive-Educational-Platform-
+# Web--Project
+Academic Website
